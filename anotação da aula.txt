@@ -1,0 +1,16 @@
+Listas: armazenam diversos valores dentro de uma única variável
+- representada dentro de []
+- elementos separados por vírgula
+
+> funções: 
+1. list[0] - retorna ao elemento que está na posição/índice 0 (indexação)
+
+2. list[0]=x - troca o valor que está na posição 0 por "x" (atribuição)
+
+3. list[1]=list[3] - os valores nas posições 1 e 3 vão ser iguais (copia de valores)
+
+4. len(list) - mostra o número de elementos da lista
+
+5. list.append(5) - adiciona ao final da lista o número 6
+
+6. del list[4] - remove o elemento da posição 4
